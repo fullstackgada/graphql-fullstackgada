@@ -39,7 +39,7 @@ A fun, visual, and Hindi-based representation of **Callback Functions** using po
 
 ## 👨‍🎨 Created By
 
-🔗 **Instagram:** [Full Stack Gada](https://www.instagram.com/fullstackgada/?next=%2F/)
+🔗 **Instagram:** [Fullstackgada](https://www.instagram.com/fullstackgada/?next=%2F/)
 
 🤝 Follow for more creative tech content!
 
@@ -48,7 +48,7 @@ A fun, visual, and Hindi-based representation of **Callback Functions** using po
 ## 🧪 How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/callback-bhide-demo.git
+git clone https://github.com/fullstackgada/graphql-fullstackgada.git
 cd callback-bhide-demo
 open index.html  # or open in your browser
 ```
