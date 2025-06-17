@@ -1,6 +1,6 @@
-# 📚 Callback System Demo with Bhide & Jethalal (Hindi)
+# ⚡ GraphQL Interactive Guide with Jethalal & Babita
 
-A fun, visual, and Hindi-based representation of **Callback Functions** using popular characters **Bhide** and **Jethalal** from *TMKOC*. This educational demo explains how callbacks work in JavaScript through a relatable payment scenario on Bhide’s Tuition Website.
+A fun, visual, and Hindi-based interactive guide to **GraphQL** using popular characters **Jethalal** and **Babita** from *TMKOC*. This demo explains GraphQL concepts—like queries, mutations, and pagination—using real-world analogies and a playful UI.
 
 🔗 **Live Demo:** [graphql-fullstackgada](https://graphql-fullstackgada.netlify.app/)
 
@@ -8,22 +8,22 @@ A fun, visual, and Hindi-based representation of **Callback Functions** using po
 
 ## 🎯 Features
 
-- 🧠 Conceptual explanation of callbacks in simple Hindi
-- 🧑‍💼 Characters: Jethalal (explainer) & Bhide (learner)
-- 🕹️ Interactive payment demo: success & failure flows
-- 🔄 Animated callback flow diagram
-- 📊 Real-time logs and status updates
-- 💬 Dialogues and explanations in Hindi
+- 🧠 Conceptual explanation of GraphQL vs REST in simple Hindi
+- 🧑‍💼 Characters: Jethalal (explainer) & Babita (learner)
+- 🕹️ Interactive demo: try different queries, mutations, and pagination
+- 📊 Real-time code and server response display
+- 💬 Dialogues and analogies in Hindi
 - 🌈 Stylish, responsive UI with gradients and soft shadows
 
 ---
 
 ## 📚 Topics Covered
 
-- What is a callback function?
-- How callbacks work in JavaScript (with payment example)
-- Handling asynchronous events (like payment confirmation)
-- Error handling with callbacks
+- What is GraphQL? (vs REST)
+- Query: Fetching only the data you need
+- Mutation: Adding and updating data
+- Pagination: Efficient data loading
+- Schema: Strongly typed contracts
 - Real-world analogy using TMKOC characters
 
 ---
@@ -39,20 +39,8 @@ A fun, visual, and Hindi-based representation of **Callback Functions** using po
 
 ## 👨‍🎨 Created By
 
-🔗 **Instagram:** [fullstackgada](https://www.instagram.com/fullstackgada/)
+🔗 **Instagram:** [fullstackgada](https://www.instagram.com/fullstackgada/?next=%2F/)
 
-🤝 Follow for more creative tech content!
+🤝 Follow on Instagram for more creative tech content!
 
----
-
-## 🧪 How to Run Locally
-
-```bash
-git clone https://github.com/fullstackgada/graphql-fullstackgada.git
-cd callback-bhide-demo
-open index.html  # or open in your browser
-```
-
----
-
-**Enjoy learning Callbacks the fun way!**
+**Enjoy learning GraphQL the fun way!**
