@@ -39,7 +39,7 @@ A fun, visual, and Hindi-based representation of **Callback Functions** using po
 
 ## 👨‍🎨 Created By
 
-🔗 **Instagram:** [Fullstackgada](https://www.instagram.com/fullstackgada/?next=%2F/)
+🔗 **Instagram:** [fullstackgada](https://www.instagram.com/fullstackgada/)
 
 🤝 Follow for more creative tech content!
 
